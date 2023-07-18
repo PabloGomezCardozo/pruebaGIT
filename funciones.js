@@ -1,6 +1,6 @@
 const funcion = function(){
     console.log("hola GIT");
 }
-const otraFuncion(){
+const otraFuncion= function(){
     console.log ("veremos que pasa");
 }
